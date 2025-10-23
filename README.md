@@ -9,12 +9,6 @@
 </div>
 
 <h2>Tutorial</h2>
-<div display: flex;>
-  <picture>
-    <img scr="https://github.com/WaterKansuza/Fishing-CriticalRevengeance/blob/a77a15ec4a22e55733524452681eb40ba1c0e8cb/data/ReadMe/GUI.png">
-  </picture>
-  <p>This is the GUI of the Macro<br>(I'm still learning so it simple)</p>
-</div>
 <table>
   <tr>
     <th>
@@ -25,3 +19,6 @@
     <th>This is the GUI of the Macro<br>(I'm still learning so it simple)</th>
   </tr>
 </table>
+<p><b style="color: red;">You have to equip the <i>Fishing Rod</i> first.</b><br>If you forgot, you can F3/Turn off and euip that.</p>
+<p></p>
+<p>First you have to go to the Fishing Place and <b>Stand</b> on the blue part under you.<br>After that you press F1/Turn on Button to start<br>F3/Turn off button to Turn off/Quit the Programme</p>
