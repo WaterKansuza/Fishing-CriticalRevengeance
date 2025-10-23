@@ -17,7 +17,7 @@
 </div>
 <table>
   <tr>
-    <th>
+    <th>!(data/ReadMe/GUI.png)
     <picture>
       <img scr="https://github.com/WaterKansuza/Fishing-CriticalRevengeance/blob/a77a15ec4a22e55733524452681eb40ba1c0e8cb/data/ReadMe/GUI.png">
     </picture>
