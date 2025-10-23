@@ -11,6 +11,7 @@
 <h2>Tutorial</h2>
 <table>
   <tr>
-    <th></th>
+    <th><img scr="https://github.com/WaterKansuza/Fishing-CriticalRevengeance/blob/a77a15ec4a22e55733524452681eb40ba1c0e8cb/data/ReadMe/GUI.png"></th>
+    <th>This is the GUI of the Macro<br>(I'm still learning so it simple)</th>
   </tr>
 </table>
