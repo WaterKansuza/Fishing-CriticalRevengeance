@@ -17,9 +17,9 @@
 </div>
 <table>
   <tr>
-    <th>!(data/ReadMe/GUI.png)
+    <th>
     <picture>
-      <img scr="https://github.com/WaterKansuza/Fishing-CriticalRevengeance/blob/a77a15ec4a22e55733524452681eb40ba1c0e8cb/data/ReadMe/GUI.png">
+      <img width="200" height="199" alt="GUI" src="https://github.com/user-attachments/assets/843aa10e-8048-40f5-b528-769767607bd2" />
     </picture>
     </th>
     <th>This is the GUI of the Macro<br>(I'm still learning so it simple)</th>
